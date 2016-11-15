@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.engine_7.3.6.201610041838/com.anylogic.engine.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.help_7.3.6.201610041838.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.engine_7.3.6.201610041838/com.anylogic.engine.al3d.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.help_7.3.6.201610041838.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.engine_7.3.6.201610041838/com.anylogic.engine.resources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.help_7.3.6.201610041838.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.engine_7.3.6.201610041838/com.anylogic.engine.nl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/Applications/AnyLogic.app/Contents/Resources/Java/plugins/com.anylogic.help_7.3.6.201610041838.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="OPTIMIZER_LIB"/>
+	<classpathentry kind="var" path="HSQLDB_LIB"/>
+	<classpathentry kind="var" path="JAR_LIB_1"/>
+	<classpathentry kind="var" path="JAR_LIB_2"/>
+	<classpathentry kind="var" path="JAR_LIB_3"/>
+	<classpathentry kind="var" path="MS_LIB"/>
+	<classpathentry kind="src" path="src.generated"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
